@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/bingo2020/static/js/main.6d1f9f5e.chunk.js",
-    "main.js.map": "/bingo2020/static/js/main.6d1f9f5e.chunk.js.map",
+    "main.js": "/bingo2020/static/js/main.ad702040.chunk.js",
+    "main.js.map": "/bingo2020/static/js/main.ad702040.chunk.js.map",
     "runtime-main.js": "/bingo2020/static/js/runtime-main.8e2ca924.js",
     "runtime-main.js.map": "/bingo2020/static/js/runtime-main.8e2ca924.js.map",
     "static/js/2.8105420d.chunk.js": "/bingo2020/static/js/2.8105420d.chunk.js",
     "static/js/2.8105420d.chunk.js.map": "/bingo2020/static/js/2.8105420d.chunk.js.map",
     "index.html": "/bingo2020/index.html",
-    "precache-manifest.5d7df15f479a2f17f54752212325d7f2.js": "/bingo2020/precache-manifest.5d7df15f479a2f17f54752212325d7f2.js",
+    "precache-manifest.35c9159494f7d8fe40d135baa09f0afa.js": "/bingo2020/precache-manifest.35c9159494f7d8fe40d135baa09f0afa.js",
     "service-worker.js": "/bingo2020/service-worker.js",
     "static/js/2.8105420d.chunk.js.LICENSE.txt": "/bingo2020/static/js/2.8105420d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8e2ca924.js",
     "static/js/2.8105420d.chunk.js",
-    "static/js/main.6d1f9f5e.chunk.js"
+    "static/js/main.ad702040.chunk.js"
   ]
 }
