@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bingo2020/precache-manifest.5c5d430a843f95430b4fca3de8400d81.js"
+  "/bingo2020/precache-manifest.5867dc7f1f90543a030a449c3d6f7d27.js"
 );
 
 self.addEventListener('message', (event) => {
